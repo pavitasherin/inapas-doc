@@ -1,0 +1,10 @@
+{
+  
+  "label": "Authentication",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Utilize the capabilities of the INAPAS API to provide secure user authentication while enhancing operational efficiency and fostering trust with your clients."
+  
+  }
+}
